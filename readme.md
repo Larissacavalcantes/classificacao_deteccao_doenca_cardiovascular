@@ -1,12 +1,3 @@
-Seção: Limpeza e tratamento de dados
+Comparação entre os resultados de uma regressão linear simples e uma regressão linear múltipla
 
-Foi analisada uma base de dados bancários de clientes nomeado *Churn*.
-
-Inicialmente foi atribuído nome às colunas, em seguida foram explorados os dados categóricos e numéricos. A partir do resultado da exploração dos dados  foram efetuados os devidos tratamentos e padronizações.
-
-Observação: script da aula do curso de Formação cientista de dados ministrado pelo professor Fernando Amaral.
-
-
-
-
-
+Na regressão linear simples foi analisado o consumo de um veículo com base no número de cilindros. Já na regressão linear múltipla foram acrescentadas as cilindradas e hp para realizar a previsão.
